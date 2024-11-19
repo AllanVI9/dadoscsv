@@ -1,2 +1,2 @@
 # dadoscsv
-# Contruido por Allan Von Ivanov E Cássio Eid Yonetsuka
+# Contruído por Allan Von Ivanov e Cássio Eid Yonetsuka
